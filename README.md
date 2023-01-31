@@ -5,8 +5,8 @@
 ## Usage
 
 - To use Apex Legends Discord RPC, you can clone/download the repo. 
-- Once you have the zip file, extract it and copy the file named '.env.test'. 
-- Then, paste and rename it to '.env'. Inside the '.env' file, 
+- Once you have the zip file, extract it. 
+- Then, rename the .env.test to '.env'.
 - Replace 'steamname' with your Steam username and 'password' with your Steam password.
 
 - If you cloned this repo
