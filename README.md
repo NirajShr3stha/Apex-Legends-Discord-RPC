@@ -4,7 +4,13 @@
 
 ## Usage
 
-- To use ApexRPC, you can either clone the repository or download the latest release from the releases page. 
+- To use ApexRPC, you can clone/download the repo. 
 - Once you have the zip file, extract it and copy the file named '.env.example'. 
 - Then, paste and rename it to '.env'. Inside the '.env' file, 
 - Replace 'steamname' with your Steam username and 'password' with your Steam password.
+
+- If you cloned this repo
+   - Make sure [Node](https://nodejs.org/en/) is installed
+   - Open your command-line interface
+   - Do an `npm install`
+   - Run `node main.js`
