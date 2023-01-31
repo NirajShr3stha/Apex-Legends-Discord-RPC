@@ -1,0 +1,29 @@
+{
+  "name": "apex-legends-discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence for Steam Apex Legends",
+  "main": "main.js",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "dotenv": "^10.0.0",
+    "find-process": "^1.4.7",
+    "prompts": "^2.4.2",
+    "steam-user": "^4.20.2",
+    "winreg": "^1.2.4",
+    "winston": "^3.7.2"
+  },
+  "scripts": {
+    "build": "nexe main.js -r node_modules/@doctormckay/steam-crypto --target 12.18.2 -o ApexRPC.exe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NirajShr3stha/Apex-Legends-Discord-RPC"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NirajShr3stha/Apex-Legends-Discord-RPC/issues"
+  },
+  "homepage": "https://github.com/NirajShr3stha/Apex-Legends-Discord-RPC#readme"
+}
