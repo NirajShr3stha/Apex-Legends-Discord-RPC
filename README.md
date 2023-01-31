@@ -1,2 +1,10 @@
 # Apex-Legends-Discord-RPC
-An unofficial client for integrating Discord Rich Presence into Apex Legends is available, but it requires Steam. With this client, you will be able to display your current Apex Legends game status and information on your Discord profile, allowing your friends to see what you are up to.
+
+### ApexRPC is a tool that enables you to convert your Steam Rich Presence into Discord Rich Presence for Apex Legends.
+
+## Usage
+
+To use ApexRPC, you can either clone the repository or download the latest release from the releases page. 
+Once you have the zip file, extract it and copy the file named '.env.example'. 
+Then, paste and rename it to '.env'. Inside the '.env' file, 
+replace 'YOURSTEAMUSERNAME' with your Steam username and 'YOURSTEAMPASSWORD' with your Steam password.
