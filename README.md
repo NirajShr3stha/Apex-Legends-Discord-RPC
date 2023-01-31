@@ -7,4 +7,4 @@
 - To use ApexRPC, you can either clone the repository or download the latest release from the releases page. 
 - Once you have the zip file, extract it and copy the file named '.env.example'. 
 - Then, paste and rename it to '.env'. Inside the '.env' file, 
-- Replace 'YOURSTEAMUSERNAME' with your Steam username and 'YOURSTEAMPASSWORD' with your Steam password.
+- Replace 'steamname' with your Steam username and 'password' with your Steam password.
