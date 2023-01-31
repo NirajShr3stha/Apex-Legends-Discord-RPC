@@ -4,16 +4,17 @@
 
 ## Usage
 
-- To use Apex Legends Discord RPC, you can clone/download the repo. 
-- Once you have the zip file, extract it. 
-- Then, rename the .env.test to '.env'.
-- Replace 'steamname' with your Steam username and 'password' with your Steam password.
-
-- If you cloned this repo
+- If you use this repo
    - Make sure [Node](https://nodejs.org/en/) is installed
    - Open your command-line interface
    - Do an `npm install`
    - Run `node main.js`
+
+After that:
+- To use Apex Legends Discord RPC, you can clone/download the repo. 
+- Once you have the zip file, extract it. 
+- Then, rename the .env.test to '.env'.
+- Replace 'steamname' with your Steam username and 'password' with your Steam password.
 
 ## Legal Disclaimer:
 - The ownership of all images, icons, and trademarks used in this project belongs to their respective owners.
